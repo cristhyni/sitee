@@ -11,12 +11,11 @@ INDEX.HTML
 <header class="cabeçalho_lista">
 <img class="cabeçalho_imagem" src="./img/civico_militar.jpg" alt="logo do Colégio">
 <ul class="lista">
-<li class="itens"> Colégio</li>
-<li class="itens"> Alunos</li>
-<li class="itens"> Equipe Pedagógica</li>
-<li class="itens"> Secretaria</li>
-<li class="itens"> Esportes</li>
-<li class="itens"> Projetos</li>
+<li class="itens"> Felinos</li>
+<li class="itens"> Gatos</li>
+<li class="itens"> bolinhas</li>
+<li class="itens"> Leite</li>
+<li class="itens"> Cachorros</li>
 
 
 
